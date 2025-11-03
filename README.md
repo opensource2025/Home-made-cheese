@@ -4,6 +4,36 @@ A simple team project explaining how to make natural cheese and its main steps â
 ## 1) objective  
 ## 2) introduction  
 ## 3) Materials and Equipment  
+* Utensils:  
+
+
+A pot (for heating milk). 
+
+
+A thermometer. 
+
+
+A strainer or colander . 
+
+
+A large spoon.  
+
+
+A cheesecloth (or clean cotton cloth).  
+
+
+A bowl.  
+
+
+
+* Equipment:  
+
+
+Stove or hot plate.  
+
+
+Mold (optional, to shape the cheese).  
+
 ## 4) ingredients  
 ## 5) procedure  
 ## 6) result  
