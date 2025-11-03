@@ -4,7 +4,7 @@ A simple team project explaining how to make natural cheese and its main steps â
 # steps:
 ## 1) objective  
 ## 2) introduction  
-## 3) Materials and Equipment  
+## 3) Material and Equipment  
 * Utensils:  
 
 
