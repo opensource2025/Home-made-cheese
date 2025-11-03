@@ -16,26 +16,7 @@ A simple team project explaining how to make natural cheese and its main steps â
 
 
 * Optional: a few drops of rennet enzyme if available.  
-
-## 5) procedure  
-## 6) result  
-## 7) health benefits of natural cheese  
-## 8) conclusion  
-## 9) references  
-* FAO: Dairy Production and Processing Guide.  
-
-
-* Deeth, J.M. (2017). Fundamentals of Dairy Chemistry. Springer.  
-
-
-* International Dairy Federation (IDF): Cheese Technology Standards and Practices.  
-
-# collaborateurs  
-
-### 1) objective:  
-### 2) introduction:  
-### 3) Materials and Equipment:  
-### 4) ingredients  
+    
 ### 5) procedure:  
 ### 6) result:  
 ### 7) health benefits of natural cheese:  
@@ -54,7 +35,14 @@ When consumed in moderation, it contributes to a balanced and healthy diet
 Making natural cheese is an easy and educational process that shows how milk can be transformed into cheese through coagulation and separation.
 It combines biology, chemistry, and food science in a simple experiment.
 ### 9) references:  
-  
+    
+* FAO: Dairy Production and Processing Guide.  
+
+
+* Deeth, J.M. (2017). Fundamentals of Dairy Chemistry. Springer.  
+
+
+* International Dairy Federation (IDF): Cheese Technology Standards and Practices.
 # collaborateurs:  
 - belmouloud bouchra  
 - oukara safia  
