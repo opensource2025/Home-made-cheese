@@ -1,6 +1,6 @@
-# description:  
+# Description:  
 A simple team project explaining how to make natural cheese and its main steps — heating, coagulation, pressing, and refrigeration — with a focus on its nutritional and health benefits.
-# steps:
+# Steps:
 ## 1) objective  
 ## 2) introduction  
 ## 3) Materials and equipment: 
@@ -43,7 +43,7 @@ It combines biology, chemistry, and food science in a simple experiment.
 
 
 * International Dairy Federation (IDF): Cheese Technology Standards and Practices.
-# collaborateurs:  
+# Collaborateurs:  
 - belmouloud bouchra  
 - oukara safia  
 - henna rahima  
