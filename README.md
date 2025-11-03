@@ -12,20 +12,22 @@ The process involves biological and chemical reactions that help milk turn into 
 ## 3) Materials and Equipment  
 
 ## 4) ingredients  
+
+* 1 liter of fresh milk (preferably whole milk).
+* 1 tablespoon of white vinegar or lemon juice (for acid coagulation).  
+* A pinch of salt.  
+* Optional: a few drops of rennet enzyme if available.  
+
 ## 5) procedure  
 * Heat the milk:
  
 Pour the milk into the pot and heat it slowly to about 40–45°C (warm, not boiling).
 
-
-
 * Add the coagulant:
 
- 
 Add the vinegar or lemon juice while stirring gently.
 
 You will see the milk separating into curds (solid) and whey (liquid).  
-
 
 
 * Let it rest:
