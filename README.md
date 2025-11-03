@@ -2,6 +2,7 @@
 A simple team project explaining how to make natural cheese and its main steps — heating, coagulation, pressing, and refrigeration — with a focus on its nutritional and health benefits.
 # steps:
 ## 1) objective  
+To prepare natural home made cheese using simple ingredients and biological processes that transform milk into a solid dairy product.
 ## 2) introduction  
 ## 3) Materials and Equipment  
 ## 4) ingredients  
