@@ -22,6 +22,14 @@ A simple team project explaining how to make natural cheese and its main steps â
 ## 7) health benefits of natural cheese  
 ## 8) conclusion  
 ## 9) references  
+* FAO: Dairy Production and Processing Guide.  
+
+
+* Deeth, J.M. (2017). Fundamentals of Dairy Chemistry. Springer.  
+
+
+* International Dairy Federation (IDF): Cheese Technology Standards and Practices.  
+
 # collaborateurs  
 - belmouloud bouchra  
 - oukara safia  
