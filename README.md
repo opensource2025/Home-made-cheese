@@ -2,50 +2,77 @@
 A simple team project explaining how to make natural cheese and its main steps — heating, coagulation, pressing, and refrigeration — with a focus on its nutritional and health benefits.
 
 # steps:
+
 ## 1) objective  
 ## 2) introduction  
 ## 3) Material and Equipment  
 * Utensils:  
 
-
-A pot (for heating milk). 
-
-
-A thermometer. 
-
-
-A strainer or colander . 
+## 1) objective:  
+To prepare natural home made cheese using simple ingredients and biological processes that transform milk into a solid dairy product.
+## 2) introduction:  
+Cheese is one of the oldest and most popular dairy products in the world.  
 
 
-A large spoon.  
+It is obtained by coagulating milk using an enzyme or acid, then separating the solid curds from the liquid whey.
+The process involves biological and chemical reactions that help milk turn into cheese.
+## 3) Materials and Equipment:  
 
+## 4) ingredients:  
 
-A cheesecloth (or clean cotton cloth).  
+* 1 liter of fresh milk (preferably whole milk).
+* 1 tablespoon of white vinegar or lemon juice (for acid coagulation).  
+* A pinch of salt.  
+* Optional: a few drops of rennet enzyme if available.  
 
-
-A bowl.  
-
-
-
-* Equipment:  
-
-
-Stove or hot plate.  
-
-
-Mold (optional, to shape the cheese).  
+## 5) procedure:  
+* Heat the milk:
  
-  ## 4) ingredients  
-     * 1 liter of fresh milk (preferably whole milk).  
+Pour the milk into the pot and heat it slowly to about 40–45°C (warm, not boiling).
 
-     * 1 tablespoon of white vinegar or lemon juice (for acid coagulation).  
+* Add the coagulant:
 
-     * A pinch of salt.  
+Add the vinegar or lemon juice while stirring gently.
 
-     * Optional: a few drops of rennet enzyme if available.  
+You will see the milk separating into curds (solid) and whey (liquid).  
+
+
+* Let it rest:
+
+ 
+Turn off the heat and let the mixture rest for 10–15 minutes until the curds form completely.
+
+
+
+* Separate the curds:
     
-  ## 5) procedure:  
-  ## 6) result:  
+Pour the mixture through the cheesecloth placed over a strainer to remove the whey.
+
+
+
+* Press the cheese:
+    
+Gather the cloth and press gently to remove excess liquid.
+
+You can place a weight on top for about 1 hour to get a firm texture.  
+
+
+
+* Add salt and shape:
+
+Open the cloth, add a little salt, and shape your cheese into a round or square block.
+
+
+
+* Refrigerate:
+    
+Place it in the fridge for a few hours to cool and harden.
+
+## 6) result:  
+A fresh, white, soft cheese is obtained,  
+
+It has a pleasant taste and can be used in salads, sandwiches, or cooking.
+    
   ## 7) health benefits of natural cheese:  
   Natural cheese is not only delicious but also provides many health benefits:  
 
