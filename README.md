@@ -1,9 +1,40 @@
 # Description:    
 A simple team project explaining how to make natural cheese and its main steps — heating, coagulation, pressing, and refrigeration — with a focus on its nutritional and health benefits.
-# Steps:
-  ## 1) objective  
-  ## 2) introduction  
-  ## 3) Materials and equipment: 
+
+# steps:
+## 1) objective  
+## 2) introduction  
+## 3) Materials and Equipment  
+* Utensils:  
+
+
+A pot (for heating milk). 
+
+
+A thermometer. 
+
+
+A strainer or colander . 
+
+
+A large spoon.  
+
+
+A cheesecloth (or clean cotton cloth).  
+
+
+A bowl.  
+
+
+
+* Equipment:  
+
+
+Stove or hot plate.  
+
+
+Mold (optional, to shape the cheese).  
+ 
   ## 4) ingredients  
      * 1 liter of fresh milk (preferably whole milk).  
 
@@ -40,6 +71,7 @@ It combines biology, chemistry, and food science in a simple experiment.
 
   * International Dairy Federation (IDF): Cheese Technology Standards and Practices.
 # Collaborateurs:  
+
 - belmouloud bouchra  
 - oukara safia  
 - henna rahima  
