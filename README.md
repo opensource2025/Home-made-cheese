@@ -63,38 +63,6 @@ Place it in the fridge for a few hours to cool and harden.
 A fresh, white, soft cheese is obtained,  
 
 It has a pleasant taste and can be used in salads, sandwiches, or cooking.
-  
-
-* Utensils:  
-
-
-A pot (for heating milk). 
-
-
-A thermometer. 
-
-
-A strainer or colander . 
-
-
-A large spoon.  
-
-
-A cheesecloth (or clean cotton cloth).  
-
-
-A bowl.  
-
-
-
-* Equipment:  
-
-
-Stove or hot plate.  
-
-
-Mold (optional, to shape the cheese).  
- 
     
   ## 7) health benefits of natural cheese:  
   Natural cheese is not only delicious but also provides many health benefits:  
