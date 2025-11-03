@@ -5,17 +5,17 @@ A simple team project explaining how to make natural cheese and its main steps â
 ## 2) introduction  
 ## 3) Materials and equipment: 
 ## 4) ingredients  
-*1 liter of fresh milk (preferably whole milk)  
+* 1 liter of fresh milk (preferably whole milk)  
 
 
-*1 tablespoon of white vinegar or lemon juice (for acid coagulation)  
+* 1 tablespoon of white vinegar or lemon juice (for acid coagulation)  
 
 
-*A pinch of salt  
+* A pinch of salt  
 
 
 
-*Optional: a few drops of rennet enzyme if available  
+* Optional: a few drops of rennet enzyme if available  
 
 ## 5) procedure  
 ## 6) result  
