@@ -2,23 +2,23 @@
 A simple team project explaining how to make natural cheese and its main steps — heating, coagulation, pressing, and refrigeration — with a focus on its nutritional and health benefits.
 
 # steps:
-## 1) objective  
+## 1) objective:  
 To prepare natural home made cheese using simple ingredients and biological processes that transform milk into a solid dairy product.
-## 2) introduction  
+## 2) introduction:  
 Cheese is one of the oldest and most popular dairy products in the world.  
 
 It is obtained by coagulating milk using an enzyme or acid, then separating the solid curds from the liquid whey.
 The process involves biological and chemical reactions that help milk turn into cheese.
-## 3) Materials and Equipment  
+## 3) Materials and Equipment:  
 
-## 4) ingredients  
+## 4) ingredients:  
 
 * 1 liter of fresh milk (preferably whole milk).
 * 1 tablespoon of white vinegar or lemon juice (for acid coagulation).  
 * A pinch of salt.  
 * Optional: a few drops of rennet enzyme if available.  
 
-## 5) procedure  
+## 5) procedure:  
 * Heat the milk:
  
 Pour the milk into the pot and heat it slowly to about 40–45°C (warm, not boiling).
@@ -61,7 +61,7 @@ Open the cloth, add a little salt, and shape your cheese into a round or square 
     
 Place it in the fridge for a few hours to cool and harden.
 
-## 6) result  
+## 6) result:  
 A fresh, white, soft cheese is obtained,  
 
 It has a pleasant taste and can be used in salads, sandwiches, or cooking.
